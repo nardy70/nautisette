@@ -1,0 +1,177 @@
+<!-- Main -->
+<div id="main">
+
+<!-- Section NEWS -->
+	<section id="news" class="wrapper style1">
+		<div class="inner">
+			<header class="align-center">
+				<h2>Le nostre News</h2>
+			</header>
+			<div class="flex flex-3">
+				{% for post in site.categories.news %}
+				
+					<div class="col align-center">
+						<div class="image round fit">
+							<a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
+						</div>
+						<h3>{{ post.title }}</h3>
+						<p>{{ post.tag }}</p>
+						<a href="{{ post.url }}" class="button">Vedi</a>
+					</div>
+			
+				{% endfor %}
+			</div>
+		</div>
+	</section>
+
+<!-- Section ASSOCIAZIONE -->
+	<section id="associazione" class="wrapper style2">
+		<div class="inner">
+			<header class="align-center">
+				<h2>La nostra Associazione</h2>
+			</header>
+			<div class="flex flex-3">
+				<div class="col align-center">
+					<div class="image round fit">
+						<a href="statuto"><img src="/images/logo/logostatuto.jpg" alt="" /></a>
+					</div>
+					<h3>Statuto</h3>
+					<a href="statuto" class="button">Vedi</a>
+				</div>
+				<div class="col align-center">
+					<div class="image round fit">
+						<a href="ormeggi"><img src="/images/logo/logoormeggio.jpg" alt="" /></a>
+					</div>
+					<h3>Regol. Ormeggi</h3>
+					<a href="ormeggi" class="button">Vedi</a>
+				</div>
+				<div class="col align-center">
+					<div class="image round fit">
+						<a href="direttivo"><img src="/images/logo/logodirettivo.jpg" alt="" /></a>
+					</div>
+					<h3>Direttivo</h3>
+					<a href="direttivo" class="button">Vedi</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- Section STORIA -->
+	<section id="storia" class="wrapper style1">
+		<div class="inner">
+			<header class="align-center">
+				<h2>Cenni Storici</h2>
+			</header>
+			<div class="flex flex-2">
+				<div class="col col1">
+					<div class="image round fit">
+						<a href="storia"><img src="/images/sede.jpg" alt="" /></a>
+					</div>
+				</div>
+				<div class="col col2">
+					<p>È il 20 dicembre del 1973 quando i Soci Fondatori, a seguito di un'iniziativa di un ristretto
+						numero di persone, si riuniscono ad Aquileia presso un noto locale della cittadina.</p>
+					<p>Dopo poco meno di un mese, il 16 gennaio 1974 ad Aquileia, si tiene l'Assemblea Costitutiva con l'elezione del
+						primo Consiglio Direttivo.</p>
+					<p>Quindi il 15 febbraio del 1974 la Società Nautica Settima Zona (chiamata Nautisette) nasce ufficialmente
+						con atto costitutivo redatto a Cervignano (Reg 15/3/1974 n.217 - Mod, I - Vol. 40).</p>
+					<p>La prima assemblea generale ha luogo il 28 giugno 1974, al Campeggio Internazionale di Belvedere Pineta.</p>
+					<a href="storia" class="button align-center">Continua</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- Section DOWNLOAD -->
+	<section id="download" class="wrapper style2">
+		<div class="inner">
+			<header class="align-center">
+				<h2>Area Download</h2>
+			</header>
+			<div class="flex flex-2">
+				<div class="col col1">
+					<div class="image round fit">
+						<img src="/images/logo/logodownload.jpg" alt="" />
+					</div>
+				</div>
+				<div class="col col2 table-wrapper">
+					<table class="alt">
+						<thead>
+							<tr>
+								<th>Tipo</th>
+								<th>Nome</th>
+								<th>Descrizione</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><a href="/download/delega.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+								<td>delega.pdf</td>
+								<td>Modulo per delega di rappresentanza del voto alle assemblee.</td>
+							</tr>
+							<tr>
+								<td><a href="/download/statuto.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+								<td>statuto.pdf</td>
+								<td>Lo statuto dell'Associazione.</td>
+							</tr>
+							<tr>
+								<td><a href="/download/p-porti.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+								<td>p-porti.pdf</td>
+								<td>Regolamento generale comunale per la gestione dei fronti fluviali e portuali.</td>
+							</tr>
+							<tr>
+								<td><a href="/download/r-pesca.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+								<td>r-pesca.pdf</td>
+								<td>Regolamento comunale per la pesca nella laguna di Grado.</td>
+							</tr>
+							<tr>
+								<td><a href="/download/pl-1-08.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+								<td>pl-1-08.pdf</td>
+								<td>Planimetrie gennaio 2008 - Posti barca per sito.</td>
+							</tr>
+							<tr>
+								<td><a href="#" onclick="toggle_visibility('archivio');"><i class="fa fa-chevron-circle-down"></i></a></td>
+								<td>Archivio</td>
+								<td>Archivio Notiziari Nautisette</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+
+			<div id="archivio" class="align-center" style="display:none;">
+				<hr>
+				<div class="table-wrapper">
+					<table class="alt">
+						<thead>
+							<h3>Archivio Notiziari Nauti7</h3>
+						</thead>
+						<tbody>
+							{% for item in site.categories.archivio %}
+
+								<tr>
+									<td><a href="{{ item.percorso }}" target="_blank"><i class="{{ item.icon }}"></i></a></td>
+									<td>{{ item.name}}</td>
+									<td>{{ item.description }}</td>
+								</tr>
+
+							{% endfor %}
+						</tbody>
+					</table>
+				</div>
+			</div>
+
+	</section>
+
+</div>
+
+<script type="text/javascript">
+	function toggle_visibility(id) {
+		event.preventDefault();
+		var e = document.getElementById(id);
+		if(e.style.display == 'block')
+			e.style.display = 'none';
+		else
+			e.style.display = 'block';
+	}
+</script>

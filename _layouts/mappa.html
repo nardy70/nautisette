@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+
+    <body>
+        
+        <style type="text/css">
+            #map {
+                width: 750px;
+                height: 500px;
+            }
+        </style>
+        
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyD7AZ0rSbpILfK02K3TvqnL8HKPhxLEYJI"></script>
+        
+        <script type="text/javascript">
+            google.maps.event.addDomListener(window, 'load', init);
+        
+            function init() {
+                var mapOptions = {
+                    zoom: 11,
+                    center: new google.maps.LatLng(45.765104, 13.357075),
+                    styles: [{"featureType":"all","elementType":"geometry.fill","stylers":[{"color":"#ebebeb"}]},{"featureType":"landscape.man_made","elementType":"geometry.fill","stylers":[{"color":"#d6d2cc"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"color":"#8d867c"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#8b1b41"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#8b1b41"},{"lightness":"50"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#fcd27f"}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#fcd27f"},{"lightness":"50"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#12202f"},{"gamma":"2.00"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"lightness":"100"}]}]
+                };
+
+                var mapElement = document.getElementById('map');
+
+                var map = new google.maps.Map(mapElement, mapOptions);
+
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(45.765104, 13.357075),
+                    map: map,
+                    title: 'Nautisette'
+                });
+
+                var infowindow = new google.maps.InfoWindow({content:'<strong>Nautisette</strong><br>Via Dante, 17<br>33051 Aquileia<br>'});
+
+                google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);
+            }
+        </script>
+
+        {% include header.html %}
+
+        <section class="wrapper flex">
+            <div class="inner col box" style="border: 5px solid #C19571;" id="map"></div>
+        </section>
+
+        {% include footer.html %}
+    </body>
+</html>

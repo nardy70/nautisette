@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+
+        <link rel="stylesheet" href="/assets/css/jssor-slider.css" />
+        
+        <h2>{{ page.title }}</h2>
+
+        <div id="jssor_1">
+            <!-- Loading Screen -->
+            <div data-u="loading" class="jssorl-009-spin">
+                <img src="/assets/css/images/spin.svg" />
+            </div>
+            <div data-u="slides" class="jssor_1_slides">
+                {% for image in site.static_files %}
+                    {% if image.path contains page.gallery-path %}
+                        <div>
+                            <img data-u="image" src="{{ site.baseurl }}{{ image.path }}" />
+                            <img data-u="thumb" src="{{ site.baseurl }}{{ image.path }}" />
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <!-- Thumbnail Navigator -->
+            <div data-u="thumbnavigator" class="jssort101" data-autocenter="2" data-scale-left="0.75">
+                <div data-u="slides">
+                    <div data-u="prototype" class="p">
+                        <div data-u="thumbnailtemplate" class="t"></div>
+                        <svg viewbox="0 0 16000 16000" class="cv">
+                            <circle class="a" cx="8000" cy="8000" r="3238.1"></circle>
+                            <line class="a" x1="6190.5" y1="8000" x2="9809.5" y2="8000"></line>
+                            <line class="a" x1="8000" y1="9809.5" x2="8000" y2="6190.5"></line>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <!-- Arrow Navigator -->
+            <div data-u="arrowleft" class="jssora093 jssora093_left" data-autocenter="2">
+                <svg viewbox="0 0 16000 16000">
+                    <circle class="c" cx="8000" cy="8000" r="5920"></circle>
+                    <polyline class="a" points="7777.8,6080 5857.8,8000 7777.8,9920 "></polyline>
+                    <line class="a" x1="10142.2" y1="8000" x2="5857.8" y2="8000"></line>
+                </svg>
+            </div>
+            <div data-u="arrowright" class="jssora093 jssora093_right" data-autocenter="2">
+                <svg viewbox="0 0 16000 16000">
+                    <circle class="c" cx="8000" cy="8000" r="5920"></circle>
+                    <polyline class="a" points="8222.2,6080 10142.2,8000 8222.2,9920 "></polyline>
+                    <line class="a" x1="5857.8" y1="8000" x2="10142.2" y2="8000"></line>
+                </svg>
+            </div>
+        </div>
+        <hr>
+
+        {% include footer.html %}
+
+        <script src="/assets/js/jssor.slider.min.js" type="text/javascript"></script>
+        <script src="/assets/js/jssor-slider.js" type="text/javascript"></script>
+        <script type="text/javascript">jssor_1_slider_init();</script>
+
+    </body>
+</html>
