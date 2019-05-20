@@ -7,7 +7,7 @@ sitemap:
 ### TITOLO I
 {:.align-center}
 
-![](/images/logo/ormeggio.jpg){:.image.round.right}
+![](/images/logo/ormeggio.svg){:.image.round.right}
 <br>
 
 #### Articolo 1

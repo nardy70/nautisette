@@ -5,7 +5,7 @@ tag: Cariche sociali
 sitemap:
 ---
 
-![](/images/logo/direttivo.jpg){:.image.round.right}
+![](/images/logo/direttivo.svg){:.image.round.right}
 
 #### Presidente
 Roberto COMUZZI

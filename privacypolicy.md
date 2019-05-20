@@ -5,7 +5,7 @@ tag: INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO
 sitemap:
 ---
 
-![](/images/logo/privacypolicy.jpg){:.image.round.right}
+![](/images/logo/privacypolicy.svg){:.image.round.right}
 
 1. In questa sezione sono contenute le informazioni relative alle modalità di gestione di "nautisette.it" in riferimento al trattamento dei dati degli utenti di "nautisette.it".
 

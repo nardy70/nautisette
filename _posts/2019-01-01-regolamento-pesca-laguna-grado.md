@@ -2,11 +2,11 @@
 layout: generico
 title: Regolamento Pesca LAGUNA DI GRADO
 tag: Approvato con delibera n.11 del 19/03/2019
-image: /images/posts/regolamento-pesca-laguna-grado.jpg
+image: /images/posts/regolamento-pesca-laguna-grado.svg
 categories: news
 ---
 
-![](/images/posts/regolamento-pesca-laguna-grado.jpg){:.image.round.right}
+![](/images/posts/regolamento-pesca-laguna-grado.svg){:.image.round.right}
 
 Ormai sono giorni che numerosi soci e amici pescatori si chiedono a che punto siamo con il regolamento per la pesca nella Laguna di Grado. Ad oggi ci sono ancora diversi punti interrogativi come ad esempio la quota giornaliera, settimanale, mensile o annuale da pagare. Di fatto, ad oggi, come riportato dalla stampa locale, si registrano solo degli allontanamenti dei pescatori sportivi dalle rive che si affacciano sulla Laguna di Grado.
 

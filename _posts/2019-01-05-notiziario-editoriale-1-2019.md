@@ -2,11 +2,11 @@
 layout: generico
 title: Notiziario Nautisette 01-2019
 tag: Editoriale
-image: /images/posts/notiziario-editoriale-1-2019.jpg
+image: /images/posts/notiziario-editoriale-1-2019.svg
 categories: news
 ---
 
-![](/images/posts/notiziario-editoriale-1-2019.jpg){:.image.round.right}
+![](/images/posts/notiziario-editoriale-1-2019.svg){:.image.round.right}
 
 Care socie e cari soci,
 

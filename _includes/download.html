@@ -1,0 +1,78 @@
+<section id="download" class="wrapper style2">
+  <div class="inner">
+    <header class="align-center">
+      <h2>Area Download</h2>
+    </header>
+    <div class="flex flex-2">
+      <div class="col col1">
+        <div class="image round fit">
+          <img src="/images/logo/logodownload.svg" alt="" />
+        </div>
+      </div>
+      <div class="col col2 table-wrapper">
+        <table class="alt">
+          <thead>
+            <tr>
+              <th>Tipo</th>
+              <th>Nome</th>
+              <th>Descrizione</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><a href="/download/delega.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+              <td>delega.pdf</td>
+              <td>Modulo per delega di rappresentanza del voto alle assemblee.</td>
+            </tr>
+            <tr>
+              <td><a href="/download/statuto.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+              <td>statuto.pdf</td>
+              <td>Lo statuto dell'Associazione.</td>
+            </tr>
+            <tr>
+              <td><a href="/download/p-porti.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+              <td>p-porti.pdf</td>
+              <td>Regolamento generale comunale per la gestione dei fronti fluviali e portuali.</td>
+            </tr>
+            <tr>
+              <td><a href="/download/r-pesca.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+              <td>r-pesca.pdf</td>
+              <td>Regolamento comunale per la pesca nella laguna di Grado.</td>
+            </tr>
+            <tr>
+              <td><a href="/download/pl-1-08.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i></a></td>
+              <td>pl-1-08.pdf</td>
+              <td>Planimetrie gennaio 2008 - Posti barca per sito.</td>
+            </tr>
+            <tr>
+              <td><a href="#" onclick="toggle_visibility('archivio');"><i class="fa fa-chevron-circle-down"></i></a></td>
+              <td>Archivio</td>
+              <td>Archivio Notiziari Nautisette</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="archivio" class="align-center" style="display:none;">
+      <hr>
+      <div class="table-wrapper">
+        <table class="alt">
+          <thead>
+            <h3>Archivio Notiziari Nauti7</h3>
+          </thead>
+          <tbody>
+            {% for item in site.categories.archivio %}
+
+              <tr>
+                <td><a href="{{ item.percorso }}" target="_blank"><i class="{{ item.icon }}"></i></a></td>
+                <td>{{ item.name}}</td>
+                <td>{{ item.description }}</td>
+              </tr>
+
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+</section>

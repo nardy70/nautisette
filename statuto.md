@@ -9,7 +9,7 @@ sitemap:
 Costituzione, Sede, Durata, Scopi
 {:.align-center}
 
-![](/images/logo/statuto.jpg){:.image.round.right}
+![](/images/logo/statuto.svg){:.image.round.right}
 
 #### Articolo 1
 E' costituita, con sede in Aquileia, l'Associazione Nautica Settima Zona con la denominazione "NAUTISETTE".
