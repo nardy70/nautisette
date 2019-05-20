@@ -14,7 +14,8 @@ window.addEventListener("load", function(){
 			"message": "Questo sito fa uso di cookies per assicurarti la miglior esperienza possibile di navigazione.",
 			"dismiss": "Ok",
 			"link": "Informativa",
-			"href": "/privacypolicy"
+			"href": "/privacypolicy",
+			"target": "_self"
 		}
 	})
 });
