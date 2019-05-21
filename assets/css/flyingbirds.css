@@ -14,7 +14,7 @@
   min-height           : 35rem;
   background-size      : cover;
   background-position  : center center;
-  padding              : 2rem 18rem 2rem 18rem;
+  padding              : 1rem 18rem 1rem 18rem;
 }
 
 .bird {
@@ -62,7 +62,6 @@
 .bird-container {
   position                         : absolute;
   top                              : 25.5%;
-  left                             : -7.5vw;
   -webkit-transform                : scale(0);
   transform                        : scale(0);
   will-change                      : transform;
