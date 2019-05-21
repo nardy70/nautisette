@@ -2093,6 +2093,10 @@
 		justify-content: space-between;
 	}
 
+		#linksutili .displayblock {
+			display: none;
+		}
+
 		.flex.flex-2, .flex.flex-3 {
 			-moz-align-items: stretch;
 			-webkit-align-items: stretch;
@@ -2190,6 +2194,14 @@
 
 			#linksutili .flex.flex-2 .col {
 				width: 46%;
+			}
+
+			#linksutili .displaynone {
+				display: none;
+			}
+
+			#linksutili .displayblock {
+				display: block;
 			}
 
 		}
@@ -2926,7 +2938,7 @@
 
 		.wrapper .innerframe {
 			margin: 0 auto;
-			width: 98%;
+			width: 90%;
 			position: relative;
 			z-index: 99;
 		}
