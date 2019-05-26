@@ -124,7 +124,7 @@ Ogni controversia relativa al presente regolamento sarà sottoposta, nel rispett
 #### Articolo 28
 Consiglio Direttivo, di propria iniziativa o su richiesta del Comitato di Gestione Ormeggi, può proporre modifiche a tutto o a sezioni del presente regolamento in base a fatti contingenti dettati dall'esperienza di gestione, da eventuali richieste di autorità od organi esterni competenti in materia. Dette proposte di modifica al regolamento diventeranno operative una volta approvate in sede di Assemblea Ordinaria e ne verrà data ampia comunicazione a tutti i soci.
 
-<!-- *Scarica la versione integrale del*
+*Scarica la versione integrale del*
 {:.align-center}
 <a href="/download/r-ormeggi.pdf" target="_blank" class="button small icon fa-download">Regolamento</a>
-{:.align-center} -->
+{:.align-center}
