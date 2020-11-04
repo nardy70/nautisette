@@ -2,3 +2,4 @@
 _site
 elements.md
 _layouts/element.html
+.jekyll-cache
