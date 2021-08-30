@@ -1,6 +1,6 @@
 ---
 layout: generico
-title: Notiziario Nautisette 2020
+title: 1° Notiziario Nautisette 2020
 tag: Editoriale
 image: /images/posts/notiziario-editoriale.svg
 categories: news
@@ -16,7 +16,7 @@ A tale scopo viene allegato al notiziario in versione pdf scaricabile tramite il
 
 Vi possiamo garantire che, nonostante le restrizioni, abbiamo portato avanti tutte quelle iniziative deliberate con voi nelle varie assemblee e di aver regolarmente aperto la sede ogni venerdì con le dovute cautele di sicurezza.
 
-Come avete potuto notare abbiamo completato i lavori per la sostituzione della gru e stiamo lavorando per la realizzazione del pontile sulla sponda del fiume Terzo. Siamo ancora in attesa di ricevere le autorizzazioni dai vari enti Regionali per dare il via ai lavori. 
+Come avete potuto notare abbiamo completato i lavori per la sostituzione della gru e stiamo lavorando per la realizzazione del pontile sulla sponda del fiume Terzo. Siamo ancora in attesa di ricevere le autorizzazioni dai vari enti Regionali per dare il via ai lavori.
 
 Cari soci di N7, nonostante le difficoltà che tutti noi stiamo incontrando, vogliamo farvi sapere che il Consiglio Direttivo è presente ed è disponibile per darvi tutte le risposte di cui potreste avere bisogno in merito all’andamento dell’anno appena trascorso.
 
@@ -24,7 +24,7 @@ Vi salutiamo calorosamente con l’augurio di poterci rincontrare tutti al più 
 
 Il Presidente<br>Roberto COMUZZI.
 
-*Scarica la versione integrale del*
+_Scarica la versione integrale del_
 {:.align-center}
 <a href="/download/archivioN7/NotiziarioN7-2011-1.pdf" target="_blank" class="button small icon fa-download">Notiziario N7</a>
 {:.align-center}
