@@ -8,31 +8,45 @@ sitemap:
 ![](/images/logo/direttivo.svg){:.image.round.right}
 
 #### Presidente
+
 Roberto COMUZZI
 
 #### Vice Presidente
+
 Andrea DREASSI
 
 #### Consiglieri
-Francesco CECCHETTO - Fulvio CLEMENTE - Marcello FOGAR - Andrea LEPRE - Lucia MINIUSSI - Ivan RAZZA - Maurizio SPAGNUL - Maurizio SVERZUT - Carlo TOSO 
+
+Francesco CECCHETTO (Presidente Comitato Ormeggi) - Fulvio CLEMENTE - Andrea LEPRE - Riccardo MILLAN - Lucia MINIUSSI - Stefano PARISI - Ivan RAZZA - Maurizio SPAGNUL - Maurizio ZAMPOLLI
 
 #### Collegio dei Revisori dei Conti
+
 ##### Presidente:
-Paolo ORFEO
+
+Enrico BRANDOLIN
+
 ##### Revisori:
-Riccardo LEPRE - Luigino TOMAT
+
+Manlio BIDUT - Massimigliano ZIN
 
 #### Collegio dei probiviri
+
 ##### Presidente:
+
 Renato Nicoletti
-##### Rappresentanti
-Guido Bulfone - Franco Nicoletti
+
+##### Membri
+
+Paolo ORFEO - Franco Nicoletti
 
 #### Segreteria
+
 Sandra MASCELLANI
 
 #### Addetto al Picco
+
 Fulvio Clemente
 
 #### Tecnico di fiducia
+
 Ing. Marco Paolo Portelli
