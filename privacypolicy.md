@@ -1,7 +1,7 @@
 ---
-title: INFORMATIVA PRIVACY
+title: INFORMATIVA PRIVACY E COOKIES POLICY
 layout: generico
-tag: INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO
+tag: INFORMAZIONI RELATIVE ALLA PRIVACY E COOKIES POLICY DEL SITO
 sitemap:
 ---
 
@@ -11,7 +11,7 @@ sitemap:
 
 2. La presente informativa ha valore anche ai fini dell' art. 13 del D.Lgs. n. 196/2003, Codice in materia di protezione dei dati personali, e ai fini dell'articolo 13 del Regolamento UE n. 2016/679, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali nonché alla libera circolazione di tali dati, per i soggetti che interagiscono con nautisette.it ed è raggiungibile all'indirizzo corrispondente alla pagina iniziale:
 
-	>**[www.nautisette.it](http://www.nautisette.it)**
+   > **[www.nautisette.it](http://www.nautisette.it)**
 
 3. L'informativa è resa solo per "nautisette.it" e non anche per altri siti web eventualmente consultati dall'utente tramite link in esso contenuti.
 
@@ -22,13 +22,14 @@ sitemap:
 6. Se l'utente ha meno di 16 anni, ai sensi dell'art.8, c.1 regolamento UE 2016/679, dovrà legittimare il suo consenso attraverso l'autorizzazione dei genitori o di chi ne fa le veci.
 
 #### I - TRATTAMENTO DEI DATI
+
 {:.align-center}
 
 #### 1 - Titolare dei Dati
 
 1. Il titolare del trattamento è la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali. Si occupa anche dei profili sulla sicurezza.
 
-2. Relativamente al presente sito web il titolare del trattamento è: l’Associazione stessa rappresentata ai suoi organi istituzionali e cioè il Consiglio Direttivo ed il suo Presidente, e per ogni chiarimento o esercizio dei diritti dell'utente potrà essere contattato al seguente indirizzo mail: **[info@nautisette.it.](mailto://info@nautisette.it){:target="_blank"}**
+2. Relativamente al presente sito web il titolare del trattamento è: l’Associazione stessa rappresentata ai suoi organi istituzionali e cioè il Consiglio Direttivo ed il suo Presidente, e per ogni chiarimento o esercizio dei diritti dell'utente potrà essere contattato al seguente indirizzo mail: **[info@nautisette.it.](mailto://info@nautisette.it){:target="\_blank"}**
 
 #### 2 - Responsabile del trattamento dati
 
@@ -43,6 +44,7 @@ sitemap:
 2. In caso di necessità, i dati connessi al servizio newsletter possono essere trattati dal responsabile del trattamento o soggetti da esso incaricati a tal fine presso la relativa sede.
 
 #### II - COOKIES
+
 {:.align-center}
 
 #### 1 - Tipo di Cookies
@@ -53,7 +55,7 @@ sitemap:
 
 3. I cookies non registrano alcuna informazione personale e gli eventuali dati identificabili non verranno memorizzati. Se si desidera, è possibile impedire il salvataggio di alcuni o tutti i cookie. Tuttavia, in questo caso l'utilizzo del sito e dei servizi offerti potrebbe risultarne compromesso. Per procedere senza modificare le opzioni relative ai cookies è sufficiente continuare con la navigazione.
 
-	Di seguito le tipologie di cookies di cui il sito fa uso:
+   Di seguito le tipologie di cookies di cui il sito fa uso:
 
 #### 2 - Cookies tecnici
 
@@ -93,18 +95,26 @@ sitemap:
 
 3. Si applicherà l'articolo 22 del Regolamento UE 2016/679 e l'articolo 122 del Codice in materia di protezione dei dati.
 
+#### 5 - Cookies policy
+
+1. Di seguito la sua cookies policy:
+
+   > - <script id="CookieDeclaration" src="https://consent.cookiebot.com/c1e276a5-2f8e-4362-9e8d-524b0957bbb4/cd.js" type="text/javascript" async></script>
+
 #### III - DATI TRATTATI
+
 {:.align-center}
 
 #### 1 - Modalità trattamento dati
 
 1. Come tutti i siti web anche il presente sito fa uso di log files nei quali vengono conservate informazioni raccolte in maniera automatizzata durante le visite degli utenti. Le informazioni raccolte potrebbero essere le seguenti:
-  - indirizzo internet protocol (IP);
-  - tipo di browser e parametri del dispositivo usato per connettersi al sito;
-  - nome dell'internet service provider (ISP);
-  - data e orario di visita;
-  - pagina web di provenienza del visitatore (referral) e di uscita;
-  - eventualmente il numero di click.
+
+- indirizzo internet protocol (IP);
+- tipo di browser e parametri del dispositivo usato per connettersi al sito;
+- nome dell'internet service provider (ISP);
+- data e orario di visita;
+- pagina web di provenienza del visitatore (referral) e di uscita;
+- eventualmente il numero di click.
 
 2. Le suddette informazioni sono trattate in forma automatizzata e raccolte in forma esclusivamente aggregata al fine di verificare il corretto funzionamento del sito, e per motivi di sicurezza. Tali informazioni saranno trattate in base ai legittimi interessi del titolare.
 
@@ -118,9 +128,9 @@ sitemap:
 
 1. I dati raccolti dal sito durante il suo funzionamento sono utilizzati per finalità sopra indicate e per le seguenti finalità:
 
-  >espletamento da parte dell’Associazione delle finalità attinenti allo statuto del sodalizio, depositato presso lo studio notarile che ha redatto l’atto pubblico e di quelle ad essa strettamente connesse;
-  
-  >invio di newsletter e/o messaggi in formato elettronico al solo fine di aggiornamento di eventuali novità di interesse per l'Associazione.
+> espletamento da parte dell’Associazione delle finalità attinenti allo statuto del sodalizio, depositato presso lo studio notarile che ha redatto l’atto pubblico e di quelle ad essa strettamente connesse;
+
+> invio di newsletter e/o messaggi in formato elettronico al solo fine di aggiornamento di eventuali novità di interesse per l'Associazione.
 
 2. La conservazione dei dati sarà effettuata per il periodo strettamente necessario al raggiungimento della finalità sopra indicata.
 
@@ -137,35 +147,39 @@ sitemap:
 1. L'utente può gestire i cookie anche attraverso le impostazioni del suo browser. Tuttavia, cancellando i cookies dal browser potrebbe rimuovere le preferenze che ha impostato per il sito.
 
 2. Per ulteriori informazioni e supporto è possibile anche visitare la pagina di aiuto specifica del web browser che si sta utilizzando:
-  - **[Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies){:target="_blank"}**
-  - **[Firefox](https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences){:target="_blank"}**
-  - **[Safari](http://www.apple.com/legal/privacy/it/){:target="_blank"}**
-  - **[Chrome](https://support.google.com/accounts/answer/61416?hl=it){:target="_blank"}**
-  - **[Opera](http://www.opera.com/help/tutorials/security/cookies/){:target="_blank"}**
+
+- **[Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies){:target="\_blank"}**
+- **[Firefox](https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences){:target="\_blank"}**
+- **[Safari](http://www.apple.com/legal/privacy/it/){:target="\_blank"}**
+- **[Chrome](https://support.google.com/accounts/answer/61416?hl=it){:target="\_blank"}**
+- **[Opera](http://www.opera.com/help/tutorials/security/cookies/){:target="\_blank"}**
 
 #### 5 - Plugin Social Network
 
 1. Il presente potrebbe incorporare anche plugin e/o bottoni per i social network, al fine di consentire una facile condivisione dei contenuti sui vostri social network preferiti. Tali plugin sono programmati in modo da non impostare alcun cookie all'accesso della pagina, per salvaguardare la privacy degli utenti. Eventualmente i cookie vengono impostati, se così previsto dai social network, solo quando l'utente fa effettivo e volontario uso del plugin. Si tenga presente che se l'utente naviga essendo loggato nel social network allora ha già acconsentito all'uso dei cookie veicolati tramite questo sito al momento dell'iscrizione al social network.
 
 2. La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento:
-  - **[Facebook](https://www.facebook.com/help/cookies){:target="_blank"}**
-  - **[Twitter](https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter){:target="_blank"}**
-  - **[Google+](http://www.google.com/policies/technologies/cookies){:target="_blank"}**
-  - **[Pinterest](https://about.pinterest.com/it/privacy-policy){:target="_blank"}**
-  - **[AddThis](http://www.addthis.com/privacy/privacy-policy){:target="_blank"}**
-  - **[Linkedin](https://www.linkedin.com/legal/cookie-policy){:target="_blank"}**
+
+- **[Facebook](https://www.facebook.com/help/cookies){:target="\_blank"}**
+- **[Twitter](https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter){:target="\_blank"}**
+- **[Google+](http://www.google.com/policies/technologies/cookies){:target="\_blank"}**
+- **[Pinterest](https://about.pinterest.com/it/privacy-policy){:target="\_blank"}**
+- **[AddThis](http://www.addthis.com/privacy/privacy-policy){:target="\_blank"}**
+- **[Linkedin](https://www.linkedin.com/legal/cookie-policy){:target="\_blank"}**
 
 #### IV - DIRITTI DELL'UTENTE
+
 {:.align-center}
 
 1. L'art. 13, c. 2 del Regolamento UE 2016/679 elenca i diritti dell'utente.
 
 2. Il sito "nautisette.it" intende pertanto informare l'utente sull'esistenza:
-  - del diritto dell'interessato di chiedere al titolare l'accesso ai dati personali (art. 15 Regolamento UE), il loro aggiornamento (art. 7, co. 3, lett. a) D.Lgs. 196/2003), la rettifica (art. 16 Regolamento UE), l'integrazione (art. 7, co. 3, lett. a) D.Lgs. 196/2003) o la limitazione del trattamento che lo riguardino (art. 18 Regolamento UE) o di opporsi, per motivi legittimi, al loro trattamento (art. 21 Regolamento UE), oltre al diritto alla portabilità dei dati (art. 20 Regolamento UE);
-  - del diritto di chiedere la cancellazione (art. 17 Regolamento UE), la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, compresi quelli di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti o successivamente trattati (art. 7, co. 3, lett. b) D.Lgs. 196/2003);
-  - del diritto di ottenere l'attestazione che le operazioni di aggiornamento, rettificazione, integrazione dei dati, cancellazione, blocco dei dati, trasformazione sono state portate a conoscenza, anche per quanto riguarda il loro contenuto, di coloro ai quali i dati sono stati comunicati o diffusi, eccettuato il caso in cui tale adempimento si rivela impossibile o comporta un impiego di mezzi manifestamente sproporzionato rispetto al diritto tutelato (art. 7, co. 3, lett. c) D.lgs. 196/2003);
 
-3. Le richieste possono essere indirizzate al titolare del trattamento, senza formalità o, in alternativa, utilizzando il modello previsto dal Garante per la Protezione dei Dati Personali, o inviando una mail all'indirizzo: **[info@nautisette.it.](mailto://info@nautisette.it){:target="_blank"}**
+- del diritto dell'interessato di chiedere al titolare l'accesso ai dati personali (art. 15 Regolamento UE), il loro aggiornamento (art. 7, co. 3, lett. a) D.Lgs. 196/2003), la rettifica (art. 16 Regolamento UE), l'integrazione (art. 7, co. 3, lett. a) D.Lgs. 196/2003) o la limitazione del trattamento che lo riguardino (art. 18 Regolamento UE) o di opporsi, per motivi legittimi, al loro trattamento (art. 21 Regolamento UE), oltre al diritto alla portabilità dei dati (art. 20 Regolamento UE);
+- del diritto di chiedere la cancellazione (art. 17 Regolamento UE), la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, compresi quelli di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti o successivamente trattati (art. 7, co. 3, lett. b) D.Lgs. 196/2003);
+- del diritto di ottenere l'attestazione che le operazioni di aggiornamento, rettificazione, integrazione dei dati, cancellazione, blocco dei dati, trasformazione sono state portate a conoscenza, anche per quanto riguarda il loro contenuto, di coloro ai quali i dati sono stati comunicati o diffusi, eccettuato il caso in cui tale adempimento si rivela impossibile o comporta un impiego di mezzi manifestamente sproporzionato rispetto al diritto tutelato (art. 7, co. 3, lett. c) D.lgs. 196/2003);
+
+3. Le richieste possono essere indirizzate al titolare del trattamento, senza formalità o, in alternativa, utilizzando il modello previsto dal Garante per la Protezione dei Dati Personali, o inviando una mail all'indirizzo: **[info@nautisette.it.](mailto://info@nautisette.it){:target="\_blank"}**
 
 4. Qualora il trattamento sia basato sull'art. 6, paragrafo 1, lett. a) – consenso espresso all'utilizzo – oppure sull'art. 9, paragrafo 2 lett. a) – consenso espresso all'utilizzo di dati genetici, biometrici, relativi alla salute, che rivelino convinzioni religiose, o filosofiche o appartenenza sindacale, che rivelino l'origine razziale o etnica, le opinioni politiche – l'utente ha il diritto di revocare il consenso in qualsiasi momento senza pregiudicare la liceità del trattamento basata sul consenso prestato prima della revoca.
 
@@ -174,6 +188,7 @@ sitemap:
 6. Per una disamina più approfondita dei diritti che Le competono, si vedano gli artt. 15 e ss. del Regolamento UE 2016/679 e l'art. 7 del D.Lgs. 196/2003.
 
 #### V - TRASFERIMENTO DATI A PAESI EXTRA UE
+
 {:.align-center}
 
 1. Il presente sito potrebbe condividere alcuni dei dati raccolti con servizi localizzati al di fuori dell'area dell'Unione Europea. In particolare con Google, Facebook e Microsoft (LinkedIn) tramite i social plugin e il servizio di Google Analytics. Il trasferimento è autorizzato e strettamente regolato dall'articolo 45, comma 1 del Regolamento UE 2016/679, per cui non occorre ulteriore consenso. Le aziende sopra menzionate garantiscono la propria adesione al Privacy Shield.
@@ -181,6 +196,7 @@ sitemap:
 2. Non verranno mai trasferiti dati a Paesi terzi che non rispettino le condizioni previste dall'articolo 45 e ss, del Regolamento UE.
 
 #### VI - SICUREZZA DATI FORNITI
+
 {:.align-center}
 
 1. Il presente sito tratta i dati degli utenti in maniera lecita e corretta, adottando le opportune misure di sicurezza volte ad impedire accessi non autorizzati, divulgazione, modifica o distruzione non autorizzata dei dati. Il trattamento viene effettuato mediante strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate.
@@ -188,13 +204,14 @@ sitemap:
 2. Oltre al titolare, in alcuni casi, potrebbero avere accesso ai dati categorie di incaricati coinvolti nell'organizzazione del sito (personale amministrativo, commerciale, marketing, legali, amministratori di sistema) ovvero soggetti esterni (come fornitori di servizi tecnici terzi, corrieri postali, hosting provider, società informatiche, agenzie di comunicazione).
 
 #### VII - MODIFICHE AL PRESENTE DOCUMENTO
+
 {:.align-center}
 
 1. Il presente documento, pubblicato all'indirizzo:
 
-	>**[www.nautisette.it/privacypolicy](http://www.nautisette.it/privacypolicy)**
+   > **[www.nautisette.it/privacypolicy](http://www.nautisette.it/privacypolicy)**
 
-	costituisce la privacy policy di questo sito.
+   costituisce la privacy policy di questo sito.
 
 2. Esso può essere soggetto a modifiche o aggiornamenti. Qualora si tratti di modifiche ed aggiornamenti rilevanti questi saranno segnalati con apposite notifiche agli utenti.
 
