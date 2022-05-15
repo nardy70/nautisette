@@ -11,9 +11,7 @@ sitemap:
 
 Roberto COMUZZI
 
-#### Vice Presidente
-
-Andrea DREASSI
+<!-- #### Vice Presidente -->
 
 #### Consiglieri
 
