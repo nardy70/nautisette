@@ -11,7 +11,9 @@ sitemap:
 
 Roberto COMUZZI
 
-<!-- #### Vice Presidente -->
+#### Vice Presidente
+
+Riccardo MILLAN
 
 #### Consiglieri
 
